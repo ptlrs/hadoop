@@ -70,7 +70,7 @@
 
     <!-- jackson versions -->
     <jackson2.version>2.13.2</jackson2.version>
-    <jackson2.databind.version>2.13.2.2</jackson2.databind.version>
+    <jackson2.databind.version>2.13.4.1</jackson2.databind.version>
 
     <!-- javax ws rs api version -->
     <javax.ws.rs-api.version>2.1.1</javax.ws.rs-api.version>
